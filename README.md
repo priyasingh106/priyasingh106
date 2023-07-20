@@ -1,8 +1,9 @@
+<h1>Priya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/priya_106" target="blank"><img src="https://img.shields.io/twitter/follow/priya_106?logo=twitter&style=for-the-badge" alt="priya_106" /></a> </p>
 
-- 🔭 I’m currently working on **#100DaysOfCode challenge**
+- 🔭 I’m currently working on [#100DaysOfCode challenge](https://github.com/priyasingh106/100DaysOfCode)
 
 - 🌱 I’m currently learning **Full stack web development**
 
@@ -17,6 +18,7 @@
 <a href="https://twitter.com/priya_106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priya_106" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priya-singh-535479233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-singh-535479233" height="30" width="40" /></a>
 <a href="https://instagram.com/seman_tic_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seman_tic_" height="30" width="40" /></a>
+<a href="https://hashnode.com/@priya233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@priya233" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyasingh106&show_icons=true&locale=en" alt="priyasingh106" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyasingh106&" alt="priyasingh106" /></p>
+
